@@ -38,3 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Chesapeake Bay React Mapbox example
 
+View the Bay with the marina waypoints: https://github.com/melvida/chesapeake-bay-maps/blob/main/ChesapeakeBay.png
